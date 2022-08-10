@@ -1,5 +1,5 @@
+// ignore: depend_on_referenced_packages
 import 'package:dartz/dartz.dart';
-
 import '../../../../core/error/failures.dart';
 import '../entities/number_trivia.dart';
 

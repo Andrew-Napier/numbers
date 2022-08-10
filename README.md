@@ -1,9 +1,8 @@
 # numbers
 
 A new Flutter project.
-Following along with 
+Following along with
 https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech&index=1
-
 
 ## Getting Started
 
